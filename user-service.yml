@@ -8,3 +8,6 @@ spring:
 jwt:
   expire-hours: 24
   secret-key: asdf
+
+order-service:
+  url: http://ORDER-SERVICE/order-service
