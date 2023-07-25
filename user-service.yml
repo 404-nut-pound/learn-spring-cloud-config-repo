@@ -10,4 +10,4 @@ jwt:
   secret-key: asdf
 
 order-service:
-  url: http://ORDER-SERVICE/order-service
+  url: http://ORDER-SERVICE-1/order-service
