@@ -4,3 +4,7 @@ spring:
     username: sa
     password: '{cipher}ca9142f3756e3d0863c1acdb907dbb91ef5139bde5abd92bc0519ad38a92b666'
     driver-class-name: org.h2.Driver
+    
+jwt:
+  expire-hours: 24
+  secret-key: asdf
