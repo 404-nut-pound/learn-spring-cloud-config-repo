@@ -1,3 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mariadb://localhost:3306/demo
+    driver-class-name: org.mariadb.jdbc.Driver
+    username: root
+    password: root12#$
+
 jwt:
   expire-hours: 24
   secret-key: asdf
